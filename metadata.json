@@ -1,0 +1,7 @@
+{
+  "name": "QuizWhiz",
+  "description": "Interactive student quiz application with board & grade challenges, championships, community battles, and individual learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
